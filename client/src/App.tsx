@@ -20,7 +20,7 @@ export default App;
 function App() {
   return (
     <main>
-      <EditorContainer defaultLanguage='javascript' readOnly defaultValue={CODE} />
+      <EditorContainer defaultLanguage='javascript'  defaultValue={CODE} />
     </main>
   );
 }
