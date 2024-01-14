@@ -1,0 +1,12 @@
+{
+  "name": "co-ode",
+  "version": "0.1.0",
+  "description": "Lecture-like collaboration support over monaco editor",
+  "main": "index.ts",
+  "scripts": {
+    "start:client": "cd client && npm run start",
+    "start:server": "cd server && npm run start"
+  },
+  "author": "piotrek-b",
+  "license": "MIT"
+}
